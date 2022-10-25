@@ -7,15 +7,7 @@ export default function About() {
     <div className={styles.about}>
       <h1>About</h1>
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores labore
-        ex magni excepturi reprehenderit sunt dolores soluta culpa asperiores?
-        Quisquam fugit totam dolor possimus non vero accusantium beatae velit
-        voluptatibus. Repellendus cumque sint, quisquam delectus odit aliquid
-        voluptate incidunt laudantium magnam earum suscipit animi accusantium
-        modi sapiente voluptatem magni eligendi. Deserunt animi dolorem cum
-        similique commodi aspernatur ullam, odit adipisci. Provident, tempore a
-        quas sapiente mnostrum, voluptatibus eligendi odio reprehenderit
-        quisquam ea neque.
+        PokeNext é um App construído em Next.js para consultar Pokémons.
       </p>
       <Image
         src="/images/charizard.png"
